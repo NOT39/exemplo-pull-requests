@@ -1,3 +1,5 @@
 # exemplo-pull-requests
 
-Alteração na branch `DEV`
+Alteração na branch **`DEV`**
+
+Mais uma alteração em **`DEV`**
